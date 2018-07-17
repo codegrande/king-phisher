@@ -1,4 +1,4 @@
-# .readthedocs.yml
+# readthedocs.yml
 
 build:
   image: latest
@@ -6,4 +6,4 @@ build:
 python:
   version: 3.6
 
-requirements_file: requirements.txt
+requirements_file: docs/requirements.rtd.txt

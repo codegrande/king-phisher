@@ -1,4 +1,5 @@
 # readthedocs.yml
+# https://king-phisher.readthedocs.io/en/latest/
 
 build:
   image: latest
